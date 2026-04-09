@@ -71,12 +71,16 @@ The analysis is guided by the following questions:
 ## Sample Visualizations
 Below are some key visualizations from the analysis:
 
+## Intro
 ![Intro_project](images/Intro_project.png)
 
+## Grouped bar chart+annotation
 ![Grouped_bar_chart+annotation,](images/Grouped_bar_chart+annotation,.png)
 
+## Scatter plot with multiple encodings
 ![Scatter_plot_with_multiple_encodings](images/Scatter_plot_with_multiple_encodings.png)
 
+## Debt to Income Ratio DebtToIncomeRatio
 ![Debt-to-Income_Ratio_(DebtToIncomeRatio)](images/Debt-to-Income_Ratio_(DebtToIncomeRatio).png)
 
 ## Methods and Tools
