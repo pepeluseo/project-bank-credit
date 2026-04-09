@@ -77,7 +77,7 @@ Below are some key visualizations from the analysis:
 
 ![Scatter_plot_with_multiple_encodings](images/Scatter_plot_with_multiple_encodings.png)
 
-![Debt-to-Income_Ratio_(DebtToIncomeRatio)](imges/Debt-to-Income_Ratio_(DebtToIncomeRatio).png)
+![Debt-to-Income_Ratio_(DebtToIncomeRatio)](images/Debt-to-Income_Ratio_(DebtToIncomeRatio).png)
 
 ## Methods and Tools
 - Python
