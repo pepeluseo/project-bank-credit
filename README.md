@@ -26,6 +26,7 @@ The dataset is used for educational purposes as part of a data analysis project.
 ---
 
 ## Project Structure
+'''text
 The repository is organized as follows:
 ├── Dataset/
     ├── prosper-loan-data-variable-definitions.xlsx
@@ -42,6 +43,7 @@ The repository is organized as follows:
 ├── Part_II_Bank_Credit_Presentation.html
 ├── README.md
 └── .gitattributes
+'''
 
 **Part I** focuses on exploring distributions and relationships in the data.
 - **Part II** communicates the key insights through a concise explanatory story supported by polished visualizations.
